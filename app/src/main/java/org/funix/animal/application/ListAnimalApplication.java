@@ -28,7 +28,7 @@ public class ListAnimalApplication extends Application {
 //        // tạo options cho bitmap các icon giảm tỉ lệ ảnh đi 4 lần để tăng tốc độ xử lý
 //        BitmapFactory.Options options = new BitmapFactory.Options();
 //        options.inSampleSize = 4;
-//
+
 //        // tạo options cho bitmap các ảnh nền giảm tỉ lệ ảnh đi 2 lần để tăng tốc độ xử lý
 //        BitmapFactory.Options options2 = new BitmapFactory.Options();
 //        options.inSampleSize = 2;
